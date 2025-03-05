@@ -22,7 +22,7 @@ A Java-based cryptography service providing encryption and decryption methods.
 - NetBeans IDE (optional)
 
 # Installation
-1. Clone the repository: git clone https://github.com/Precious-Teffo/CrytopgraphySrvice.git
+1. Clone the repository: git clone https://github.com/Precious-Teffo/CrytopgraphyService.git
 2. Import the project into NetBeans (if using)
 
 # Usage
